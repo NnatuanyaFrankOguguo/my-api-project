@@ -23,7 +23,7 @@ const limiter = rateLimit({
 app.use(limiter);
 //Reply with your with my actual details
 const EMAIL = "nnatuanyafrank@gmail.com";
-const GITHUB_URL = "https://github.com/NnatuanyaFrankOguguo"
+const GITHUB_URL = "https://github.com/NnatuanyaFrankOguguo/my-api-project"
 
 
 app.get("/", (req: Request, res: Response) => {
