@@ -72,7 +72,7 @@ https://my-api-project-production.up.railway.app
 
 📚 Resources
 
-Hire Node.js Developers
+[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
 
 📜 License
 
