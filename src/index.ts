@@ -27,7 +27,7 @@ const GITHUB_URL = "https://github.com/NnatuanyaFrankOguguo/my-api-project"
 
 
 app.get("/", (req: Request, res: Response) => {
-    res.status(200).json({ message: EMAIL, current_datetime: new Date().toISOString(), github_url: GITHUB_URL });
+    res.status(200).json({ email: EMAIL, current_datetime: new Date().toISOString(), github_url: GITHUB_URL });
   });
   
   // Start Server
