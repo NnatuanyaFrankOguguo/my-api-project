@@ -42,7 +42,7 @@ Returns a JSON response with the required information.
 
 #### 1. Clone the Repository 🛎️
 
-git clone https://github.com/yourusername/your-repo.git
+git clone [https://github.com/yourusername/your-repo.git](https://github.com/nnatunayafrankoguguo/my-api-project)
 cd your-repo
 
 #### 2. Install Dependencies 📦
